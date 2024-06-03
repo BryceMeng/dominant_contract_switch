@@ -1,8 +1,8 @@
 # dominant_contract_switch
-##Function##:
+## Function:
 Analyze contract switching times in China's commodity markets
 
-##data##:
+## data:
 China commodity futures market data, exported from tb(TradeBlazer).
 
 **DCSwitch.py** can be used in strategies to determine if the current time has reached a switch point
